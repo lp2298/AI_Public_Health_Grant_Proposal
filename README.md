@@ -2,6 +2,11 @@
 
 This repository holds unit tests for the **PDF text extraction** atomic protocol. The tests exercise PyMuPDF's `Page.get_text("text")` call using small, synthetic PDFs created in memory. The citable source is the [PyMuPDF Page.get_text() documentation](https://pymupdf.readthedocs.io/en/latest/page.html#Page.get_text).
 
+## Wire diagram 
+
+One sentence on where this protocol sits in the workflow. 
+![Workflow wire diagram](docs/wire_diagram.png) 
+
 ## Contract
 
 | | Type | Description |
