@@ -110,6 +110,19 @@ def test_special_characters_are_preserved(expected_character):
     assert expected_character in result
 
 
+def test_input_contains_exactly_one_pdf():
+    pdfs = [
+        _make_text_pdf("Application deadline: December 1, 2026."),
+    ]
+
+    assert len(pdfs) == 1, "Expected exactly one PDF input."
+
+    with pymupdf.open(stream=pdfs[0], filetype="pdf") as doc:
+        result = doc[0].get_text("text")
+
+    assert result.strip() == "Application deadline: December 1, 2026."
+
+
 def test_non_pdf_file_raises():
     invalid_pdf_bytes = b"This is not a PDF."
 
