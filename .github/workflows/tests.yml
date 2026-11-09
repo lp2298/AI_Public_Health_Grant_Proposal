@@ -29,4 +29,4 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run unit tests
-        run: pytest -v
+        run: python -m pytest -v Session_6_Unit_Test.py
