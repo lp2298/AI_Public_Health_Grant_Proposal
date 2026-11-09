@@ -1,10 +1,11 @@
 # PyMuPDF PDF Text Extraction Unit Tests
 
+[![tests](https://github.com/lp2298/AI_Public_Health_Grant_Proposal/actions/workflows/tests.yml/badge.svg)](https://github.com/lp2298/AI_Public_Health_Grant_Proposal/actions/workflows/tests.yml) 
+
 This repository holds unit tests for the **PDF text extraction** atomic protocol. The tests exercise PyMuPDF's `Page.get_text("text")` call using small, synthetic PDFs created in memory. The citable source is the [PyMuPDF Page.get_text() documentation](https://pymupdf.readthedocs.io/en/latest/page.html#Page.get_text).
 
 ## Wire diagram 
-
-One sentence on where this protocol sits in the workflow. 
+This protocol sits at Step 1A in Branch A (Funding Opportunity), converting the funder’s PDF document into plain text for Step 1B (Extract & validate) to extract and validate grant requirements.
 ![Workflow wire diagram](docs/wire_diagram.png) 
 
 ## Contract
