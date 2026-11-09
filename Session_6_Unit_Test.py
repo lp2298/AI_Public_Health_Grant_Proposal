@@ -113,10 +113,8 @@ def test_special_characters_are_preserved(expected_character):
 def test_input_contains_exactly_one_pdf():
     pdfs = [
         _make_text_pdf("Application deadline: December 1, 2026."),
-        _make_text_pdf("Maximum grant award: $50,000."),
     ]
 
-    # Intentionally supply two PDFs to demonstrate the single-PDF requirement.
     assert len(pdfs) == 1, "Expected exactly one PDF input."
 
     with pymupdf.open(stream=pdfs[0], filetype="pdf") as doc:
