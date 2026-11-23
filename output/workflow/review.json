@@ -1,0 +1,1290 @@
+{
+  "verified_guideline_details": {
+    "funding_opportunity": "Community Health Improvement Grant 2026 \u2014 \u201cFunding opportunity\nCommunity Health Improvement Grant 2026\u201d (Community_Health_Improvement_Grant_Guidelines.pdf, page 1).",
+    "application_deadline": "December 15, 2026, 11:59 p.m. ET \u2014 \u201cApplication deadline\nDecember 15, 2026, 11:59 p.m. ET (fictional)\u201d (Community_Health_Improvement_Grant_Guidelines.pdf, page 1).",
+    "document_date": "October 1, 2026 \u2014 \u201cDocument date\nOctober 1, 2026\u201d (Community_Health_Improvement_Grant_Guidelines.pdf, page 1). The document states: \u201cThe opportunity name, document date, and deadline above are synthetic.\u201d (page 2)."
+  },
+  "criteria": {
+    "criteria": [
+      {
+        "category": "section",
+        "requirement": "Project Title: State the proposed initiative name.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 1,
+            "quote": "1. Project Title: State the proposed initiative name."
+          }
+        ]
+      },
+      {
+        "category": "section",
+        "requirement": "Organization Information: Provide the organization name, mission, project location, applicant eligibility, and contact details.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 1,
+            "quote": "2. Organization Information: Provide organization name, mission, project location, applicant \neligibility, and contact details."
+          }
+        ]
+      },
+      {
+        "category": "section",
+        "requirement": "Project Summary: Summarize the need, target audience, approach, requested amount, and anticipated results.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 1,
+            "quote": "3. Project Summary: Summarize the need, target audience, approach, requested amount, and \nanticipated results."
+          }
+        ]
+      },
+      {
+        "category": "section",
+        "requirement": "Project Goals: Provide an overarching goal and measurable, time-bounded objectives.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 1,
+            "quote": "4. Project Goals: Provide an overarching goal and measurable, time-bounded objectives."
+          }
+        ]
+      },
+      {
+        "category": "section",
+        "requirement": "Target Population: Describe the population served and relevant barriers to preventive care.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "5. Target Population: Describe the population served and relevant barriers to preventive care."
+          }
+        ]
+      },
+      {
+        "category": "section",
+        "requirement": "Project Activities: Describe activities, delivery responsibilities, and a feasible timeline.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "6. Project Activities: Describe activities, delivery responsibilities, and a feasible timeline."
+          }
+        ]
+      },
+      {
+        "category": "section",
+        "requirement": "Budget: Provide a category-level budget and a basic use-of-funds justification.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "7. Budget: Provide a category-level budget and basic use-of-funds justification."
+          }
+        ]
+      },
+      {
+        "category": "section",
+        "requirement": "Evaluation Plan: Identify output and outcome measures, collection methods, reporting frequency, and limitations.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "8. Evaluation Plan: Identify output/outcome measures, collection methods, reporting frequency, and \nlimitations."
+          }
+        ]
+      },
+      {
+        "category": "eligibility",
+        "requirement": "The applicant must be a nonprofit organization providing community health services.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 1,
+            "quote": "Applicant must be a nonprofit organization providing community health services."
+          }
+        ]
+      },
+      {
+        "category": "eligibility",
+        "requirement": "Project activities must serve a defined community and have a plausible connection to preventive healthcare access.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 1,
+            "quote": "Project activities must serve a defined community and demonstrate a plausible connection to \npreventive healthcare access."
+          }
+        ]
+      },
+      {
+        "category": "eligibility",
+        "requirement": "The applicant must document organizational capacity, proposed partners, and a realistic project budget.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 1,
+            "quote": "The applicant must document its organizational capacity, proposed partners, and a realistic \nproject budget."
+          }
+        ]
+      },
+      {
+        "category": "eligibility",
+        "requirement": "The applicant must verify its actual legal and organizational status; narrative statements alone cannot establish eligibility.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 1,
+            "quote": "Eligibility cannot be established solely by statements in the narrative; the applicant must verify \nits actual legal and organizational status."
+          }
+        ]
+      },
+      {
+        "category": "deadline",
+        "requirement": "The fictional application deadline is December 15, 2026, at 11:59 p.m. ET.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 1,
+            "quote": "December 15, 2026, 11:59 p.m. ET (fictional)"
+          }
+        ]
+      },
+      {
+        "category": "attachment",
+        "requirement": "No external attachments are required for the initial narrative screening in this simplified fictional RFP.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "For this simplified fictional RFP, no external attachments are required for the initial narrative \nscreening."
+          }
+        ]
+      },
+      {
+        "category": "formatting",
+        "requirement": "The main narrative, including the budget and evaluation plan, may not exceed five pages.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "Maximum 5 pages for the main narrative, including the budget and evaluation plan."
+          }
+        ]
+      },
+      {
+        "category": "formatting",
+        "requirement": "Use 12-point Times New Roman body text and one-inch margins on all sides.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "Times New Roman, 12-point body text."
+          },
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "One-inch margins on all sides."
+          }
+        ]
+      },
+      {
+        "category": "formatting",
+        "requirement": "Submit the narrative as a readable PDF and use clear headings matching the eight required sections.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "Submit the narrative as a readable PDF."
+          },
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "Use clear section headings matching the eight required sections."
+          }
+        ]
+      },
+      {
+        "category": "budget",
+        "requirement": "Request no more than $75,000 for a project lasting no more than 12 months.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "Applicants may request up to $75,000 for a project lasting no more than 12 months."
+          }
+        ]
+      },
+      {
+        "category": "budget",
+        "requirement": "Personnel, educational materials, translation, outreach, and navigation-related operating costs may be proposed if reasonable and connected to the work plan.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "Personnel, \neducational materials, translation, outreach, and navigation-related operating costs may be proposed \nif reasonable and connected to the work plan."
+          }
+        ]
+      },
+      {
+        "category": "budget",
+        "requirement": "The budget must add correctly and not exceed the requested amount.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "The submitted budget must add correctly and must not \nexceed the requested amount."
+          }
+        ]
+      },
+      {
+        "category": "budget",
+        "requirement": "The fictional opportunity does not pay for direct clinical services unless separately authorized.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 1,
+            "quote": "This fictional opportunity does not pay for direct clinical services \nunless separately authorized."
+          }
+        ]
+      },
+      {
+        "category": "evaluation",
+        "requirement": "Completeness: All eight sections must be present and substantively addressed.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "Completeness: all eight sections are present and substantively addressed."
+          }
+        ]
+      },
+      {
+        "category": "evaluation",
+        "requirement": "Feasibility: Activities, objectives, resources, and timeline should be aligned.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "Feasibility: project activities, objectives, resources, and timeline are aligned."
+          }
+        ]
+      },
+      {
+        "category": "evaluation",
+        "requirement": "Budget consistency: Figures should total correctly and support the proposed activities.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "Budget consistency: figures total correctly and support the proposed activities."
+          }
+        ]
+      },
+      {
+        "category": "evaluation",
+        "requirement": "Evaluation: Metrics should distinguish outreach and referral activity from verified health outcomes.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "Evaluation: metrics distinguish outreach/referral activity from verified health outcomes."
+          }
+        ]
+      },
+      {
+        "category": "evaluation",
+        "requirement": "Readiness: The applicant should verify eligibility, accuracy, and formatting before submission.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "Readiness: the applicant has verified eligibility, accuracy, and formatting before submission."
+          }
+        ]
+      },
+      {
+        "category": "other",
+        "requirement": "The document is synthetic training material and does not establish that a real funding opportunity exists.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 1,
+            "quote": "SYNTHETIC TRAINING MATERIAL  \u2022  NOT AN OFFICIAL GRANT OR ORGANIZATIONAL POLICY"
+          },
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "This document must never be \nused to infer that a real funding opportunity exists or that an actual submission has been completed."
+          }
+        ]
+      }
+    ],
+    "unknowns": [
+      "The guidelines list required section prompts but do not provide separately worded application questions.",
+      "Any real funder, real opportunity, applicable deadline, submission instructions, award conditions, and required attachments are unknown and would need confirmation from an official RFP.",
+      "The guidelines do not specify a submission portal, email address, or other delivery method.",
+      "The guidelines do not specify numerical weights or a scoring rubric for the review considerations."
+    ]
+  },
+  "initial_assessment": {
+    "assessments": [
+      {
+        "requirement": "Project Title: State the proposed initiative name.",
+        "status": "met",
+        "explanation": "The application states the initiative name.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "1. Project Title\nCommunity Health Access Initiative"
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Organization Information: Provide the organization name, mission, project location, applicant eligibility, and contact details.",
+        "status": "unclear",
+        "explanation": "The draft names the fictional applicant and describes its focus, but leaves the service area unspecified. Contact details and verified eligibility are not provided.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "Service area:\nUnderserved communities in the proposed implementation area, to be specified by the\napplicant."
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "Before any real submission, the applicant would\nneed to confirm its legal status, service location, leadership, organizational capacity, and\neligibility."
+          }
+        ],
+        "question": "What are the verified project location, applicant eligibility, and contact details?"
+      },
+      {
+        "requirement": "Project Summary: Summarize the need, target audience, approach, requested amount, and anticipated results.",
+        "status": "met",
+        "explanation": "The draft describes the access need, audience, approach, request, and intended connection to care.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "Community Wellness Alliance requests $50,000 for a 12-month Community Health Access\nInitiative to help adults ages 45-75 better understand and access recommended preventive\nhealth screenings."
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "The project will combine accessible educational sessions, bilingual\ninformational materials where appropriate, and referral navigation to local healthcare\nproviders."
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Project Goals: Provide an overarching goal and measurable, time-bounded objectives.",
+        "status": "met",
+        "explanation": "The draft states an overarching goal and four measurable objectives for a 12-month period.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "The overall goal is to improve access to preventive healthcare information and referral\npathways for underserved adults ages 45-75. The proposed 12-month operational objectives\nare:"
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 2,
+            "quote": "1. Deliver at least 12 community education sessions covering preventive screening options and\naccess pathways.\n2. Reach at least 240 adults through sessions and outreach activities.\n3. Offer individualized referral-navigation assistance to at least 100 participants who request\nhelp identifying care options.\n4. Document referral follow-up attempts for at least 80% of participants who consent to\nfollow-up."
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Target Population: Describe the population served and relevant barriers to preventive care.",
+        "status": "met",
+        "explanation": "The draft identifies the age group and several barriers, although its geographic location remains unspecified.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 2,
+            "quote": "The initiative will focus on adults ages 45-75 in communities experiencing barriers to routine\npreventive care, including limited access to a primary care provider, language barriers, cost\nconcerns, transportation challenges, and inflexible work schedules."
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Project Activities: Describe activities, delivery responsibilities, and a feasible timeline.",
+        "status": "unclear",
+        "explanation": "The draft provides phased activities and a timeline, but delivery capacity and the feasibility of the targets remain unverified.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 2,
+            "quote": "Months 1-2, preparation: Identify referral partners, confirm accessible community venues,\nrecruit and orient outreach staff, and develop educational materials for review by an\nappropriately qualified health professional."
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 2,
+            "quote": "The applicant must validate feasibility and local relevance before using\nthem in a real proposal."
+          }
+        ],
+        "question": "Who will deliver each activity, and what evidence supports the staffing and timeline?"
+      },
+      {
+        "requirement": "Budget: Provide a category-level budget and a basic use-of-funds justification.",
+        "status": "met",
+        "explanation": "The draft lists three budget categories, amounts, and purposes; the figures are explicitly illustrative.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 2,
+            "quote": "Personnel\n$25,000\nPart-time coordination and outreach support"
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 3,
+            "quote": "Educational materials\n$10,000\nAccessible content, translation and printing\nCommunity outreach\n$15,000\nVenue support, local outreach and navigation logistics"
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Evaluation Plan: Identify output and outcome measures, collection methods, reporting frequency, and limitations.",
+        "status": "unclear",
+        "explanation": "The draft identifies outputs, records and a questionnaire, monthly and final reporting, and a limitation on clinical claims. It does not clearly specify a measurable outcome or how one would be collected.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 3,
+            "quote": "Staff will track the\nnumber of sessions delivered, estimated unique participants reached, materials distributed,\nnavigation requests received, and documented follow-up attempts."
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 3,
+            "quote": "The program coordinator will compile a monthly activity summary and review progress\ntoward the four proposed objectives."
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 3,
+            "quote": "The program will not claim that participants completed screenings unless that result\ncan be lawfully and reliably verified."
+          }
+        ],
+        "question": "What outcome will be measured, and how will it be collected and reported?"
+      },
+      {
+        "requirement": "The applicant must be a nonprofit organization providing community health services.",
+        "status": "unclear",
+        "explanation": "The documents describe a fictional nonprofit and do not establish an actual applicant's status or services.",
+        "references": [
+          {
+            "document": "Community_Wellness_Alliance_Organizational_Policies.pdf",
+            "page": 1,
+            "quote": "Community Wellness Alliance is a fictional nonprofit community health organization established \nsolely for demonstration."
+          },
+          {
+            "document": "Community_Wellness_Alliance_Organizational_Policies.pdf",
+            "page": 1,
+            "quote": "This sample does not verify tax-exempt status, legal registration, jurisdiction, program staff, existing \nreferral partnerships, or organizational track record."
+          }
+        ],
+        "question": "What evidence verifies the actual applicant's nonprofit status and community health services?"
+      },
+      {
+        "requirement": "Project activities must serve a defined community and have a plausible connection to preventive healthcare access.",
+        "status": "unclear",
+        "explanation": "The proposed education and navigation have a plausible connection to preventive care, but the implementation area is unspecified.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "Service area:\nUnderserved communities in the proposed implementation area, to be specified by the\napplicant."
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "The project will combine accessible educational sessions, bilingual\ninformational materials where appropriate, and referral navigation to local healthcare\nproviders."
+          }
+        ],
+        "question": "What defined community and location will the project serve?"
+      },
+      {
+        "requirement": "The applicant must document organizational capacity, proposed partners, and a realistic project budget.",
+        "status": "unclear",
+        "explanation": "A budget is presented, but its costs are illustrative; capacity and partners remain unverified.",
+        "references": [
+          {
+            "document": "Community_Wellness_Alliance_Organizational_Policies.pdf",
+            "page": 1,
+            "quote": "This sample does not verify tax-exempt status, legal registration, jurisdiction, program staff, existing \nreferral partnerships, or organizational track record."
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 2,
+            "quote": "Amounts are illustrative planning figures\nand would need supporting cost estimates in a real proposal."
+          }
+        ],
+        "question": "What evidence documents delivery capacity, proposed partners, and the budget's cost estimates?"
+      },
+      {
+        "requirement": "The applicant must verify its actual legal and organizational status; narrative statements alone cannot establish eligibility.",
+        "status": "unclear",
+        "explanation": "The sample explicitly says legal registration and tax-exempt status are not verified.",
+        "references": [
+          {
+            "document": "Community_Wellness_Alliance_Organizational_Policies.pdf",
+            "page": 1,
+            "quote": "This sample does not verify tax-exempt status, legal registration, jurisdiction, program staff, existing \nreferral partnerships, or organizational track record."
+          }
+        ],
+        "question": "What documentation verifies the actual applicant's legal and organizational status?"
+      },
+      {
+        "requirement": "The fictional application deadline is December 15, 2026, at 11:59 p.m. ET.",
+        "status": "unclear",
+        "explanation": "The supplied materials identify a fictional deadline but do not verify an actual submission or applicable real deadline.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 1,
+            "quote": "December 15, 2026, 11:59 p.m. ET (fictional)"
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "This is not a verified funding opportunity or a submission-ready\napplication."
+          }
+        ],
+        "question": "Has an applicable deadline and timely submission been verified with an actual funder?"
+      },
+      {
+        "requirement": "No external attachments are required for the initial narrative screening in this simplified fictional RFP.",
+        "status": "unclear",
+        "explanation": "The fictional guideline states that no external attachments are required for its initial screening; requirements for any actual opportunity are not verified.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "For this simplified fictional RFP, no external attachments are required for the initial narrative \nscreening."
+          }
+        ],
+        "question": "Have attachment requirements for any actual opportunity been confirmed?"
+      },
+      {
+        "requirement": "The main narrative, including the budget and evaluation plan, may not exceed five pages.",
+        "status": "unclear",
+        "explanation": "NOT VERIFIED: inspect the formatted submission document manually.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 3,
+            "quote": "8. Evaluation Plan"
+          }
+        ],
+        "question": "Is the final narrative PDF, including budget and evaluation, no more than five pages?"
+      },
+      {
+        "requirement": "Use 12-point Times New Roman body text and one-inch margins on all sides.",
+        "status": "unclear",
+        "explanation": "NOT VERIFIED: inspect the formatted submission document manually.",
+        "references": [],
+        "question": "Does the final PDF use 12-point Times New Roman body text and one-inch margins?"
+      },
+      {
+        "requirement": "Submit the narrative as a readable PDF and use clear headings matching the eight required sections.",
+        "status": "unclear",
+        "explanation": "NOT VERIFIED: inspect the formatted submission document manually.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "1. Project Title"
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 3,
+            "quote": "8. Evaluation Plan"
+          }
+        ],
+        "question": "Is the final readable PDF submitted with all eight matching section headings?"
+      },
+      {
+        "requirement": "Request no more than $75,000 for a project lasting no more than 12 months.",
+        "status": "met",
+        "explanation": "The draft requests $50,000 for 12 months, within the stated limits.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "Applicant: Community Wellness Alliance (fictional nonprofit). Funding requested: $50,000.\nProposed project period: 12 months following award notification."
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Personnel, educational materials, translation, outreach, and navigation-related operating costs may be proposed if reasonable and connected to the work plan.",
+        "status": "unclear",
+        "explanation": "The proposed categories connect to the described activities, but the figures lack supporting cost estimates, so reasonableness cannot be verified.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 3,
+            "quote": "Educational materials\n$10,000\nAccessible content, translation and printing\nCommunity outreach\n$15,000\nVenue support, local outreach and navigation logistics"
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 2,
+            "quote": "Amounts are illustrative planning figures\nand would need supporting cost estimates in a real proposal."
+          }
+        ],
+        "question": "What cost estimates support the reasonableness of each proposed category?"
+      },
+      {
+        "requirement": "The budget must add correctly and not exceed the requested amount.",
+        "status": "met",
+        "explanation": "The three categories total $50,000, matching the requested amount.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 2,
+            "quote": "Personnel\n$25,000\nPart-time coordination and outreach support"
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 3,
+            "quote": "Educational materials\n$10,000\nAccessible content, translation and printing\nCommunity outreach\n$15,000\nVenue support, local outreach and navigation logistics\nTOTAL\n$50,000\n12-month project request"
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "Applicant: Community Wellness Alliance (fictional nonprofit). Funding requested: $50,000."
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "The fictional opportunity does not pay for direct clinical services unless separately authorized.",
+        "status": "met",
+        "explanation": "The draft describes education and navigation rather than direct clinical screening or medical advice; its listed budget purposes do not identify direct clinical services.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "The initiative is designed\nto connect participants with qualified healthcare professionals rather than deliver clinical\nscreening or medical advice directly."
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 3,
+            "quote": "Community outreach\n$15,000\nVenue support, local outreach and navigation logistics"
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Completeness: All eight sections must be present and substantively addressed.",
+        "status": "unclear",
+        "explanation": "The draft contains the eight numbered sections, but organization information remains incomplete and the evaluation plan does not clearly specify an outcome measure.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "Before any real submission, the applicant would\nneed to confirm its legal status, service location, leadership, organizational capacity, and\neligibility."
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 3,
+            "quote": "Staff will track the\nnumber of sessions delivered, estimated unique participants reached, materials distributed,\nnavigation requests received, and documented follow-up attempts."
+          }
+        ],
+        "question": "Can the missing organization details and a measurable outcome be supplied?"
+      },
+      {
+        "requirement": "Feasibility: Activities, objectives, resources, and timeline should be aligned.",
+        "status": "unclear",
+        "explanation": "The draft connects activities, targets, and a 12-month schedule, but states that feasibility and the illustrative budget need validation.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 2,
+            "quote": "These are proposed planning targets, not demonstrated outcomes or promises of completed\nmedical screening. The applicant must validate feasibility and local relevance before using\nthem in a real proposal."
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 2,
+            "quote": "Amounts are illustrative planning figures\nand would need supporting cost estimates in a real proposal."
+          }
+        ],
+        "question": "What staffing, partner commitments, and cost estimates demonstrate that the targets and timeline are feasible?"
+      },
+      {
+        "requirement": "Budget consistency: Figures should total correctly and support the proposed activities.",
+        "status": "met",
+        "explanation": "The listed figures total the $50,000 request, and their stated purposes correspond to coordination, materials, outreach, and navigation in the work plan. Cost reasonableness remains unverified.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 2,
+            "quote": "Personnel\n$25,000\nPart-time coordination and outreach support"
+          },
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 3,
+            "quote": "Educational materials\n$10,000\nAccessible content, translation and printing\nCommunity outreach\n$15,000\nVenue support, local outreach and navigation logistics\nTOTAL\n$50,000\n12-month project request"
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Evaluation: Metrics should distinguish outreach and referral activity from verified health outcomes.",
+        "status": "met",
+        "explanation": "The draft expressly distinguishes activity counts from verified clinical outcomes and limits claims of completed screenings.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 3,
+            "quote": "Staff will report\naggregate counts and clearly distinguish outreach or referral activity from verified clinical\noutcomes. The program will not claim that participants completed screenings unless that result\ncan be lawfully and reliably verified."
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Readiness: The applicant should verify eligibility, accuracy, and formatting before submission.",
+        "status": "unclear",
+        "explanation": "The application identifies verification as work to be completed; the supplied materials do not establish that eligibility, accuracy, or formatting has been verified.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 3,
+            "quote": "Applicant verification before submission: Confirm the funder's official current guidelines and deadline;\napplicant nonprofit eligibility; location and referral partners; delivery capacity and measurable targets; budget\njustifications; and applicable confidentiality/consent procedures."
+          }
+        ],
+        "question": "Have eligibility, application accuracy, and final formatting been verified?"
+      },
+      {
+        "requirement": "The document is synthetic training material and does not establish that a real funding opportunity exists.",
+        "status": "met",
+        "explanation": "The application explicitly identifies itself and the opportunity as fictional and unverified.",
+        "references": [
+          {
+            "document": "Community_Health_Access_Grant_Application (1).pdf",
+            "page": 1,
+            "quote": "Fictional demonstration: This application and the named organizations/funder are synthetic materials for testing\nan AI-assisted grant review workflow. This is not a verified funding opportunity or a submission-ready\napplication."
+          }
+        ],
+        "question": ""
+      }
+    ]
+  },
+  "revised_assessment": {
+    "assessments": [
+      {
+        "requirement": "Project Title: State the proposed initiative name.",
+        "status": "met",
+        "explanation": "The draft states the initiative name.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "1. Project Title\nCommunity Health Access Initiative"
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Organization Information: Provide the organization name, mission, project location, applicant eligibility, and contact details.",
+        "status": "unmet",
+        "explanation": "The draft names the fictional organization and states a proposed mission, but leaves the service location unspecified and does not provide contact details or verified eligibility.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Applicant: Community Wellness Alliance (fictional nonprofit). Funding requested: $50,000."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Underserved communities in the proposed implementation area, to be specified by the\napplicant."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Before any real submission, the applicant would\nneed to confirm its legal status, service location, leadership, organizational capacity, and\neligibility."
+          }
+        ],
+        "question": "What are the actual project location, eligibility evidence, and applicant contact details?"
+      },
+      {
+        "requirement": "Project Summary: Summarize the need, target audience, approach, requested amount, and anticipated results.",
+        "status": "met",
+        "explanation": "The draft summarizes access barriers, the intended audience, activities, funding request, and intended improvement in access.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Community Wellness Alliance requests $50,000 for a 12-month Community Health Access\nInitiative to help adults ages 45-75 better understand and access recommended preventive\nhealth screenings."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "The project will combine accessible educational sessions, bilingual\ninformational materials where appropriate, and referral navigation to local healthcare\nproviders."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Outreach will prioritize residents who report difficulty finding routine care,\nunderstanding screening options, or scheduling follow-up visits."
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Project Goals: Provide an overarching goal and measurable, time-bounded objectives.",
+        "status": "met",
+        "explanation": "The draft states an overarching goal and four measurable objectives for the proposed 12-month period.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "The overall goal is to improve access to preventive healthcare information and referral\npathways for underserved adults ages 45-75. The proposed 12-month operational objectives\nare:"
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "1. Deliver at least 12 community education sessions covering preventive screening options and\naccess pathways."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "4. Document referral follow-up attempts for at least 80% of participants who consent to\nfollow-up."
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Target Population: Describe the population served and relevant barriers to preventive care.",
+        "status": "met",
+        "explanation": "The draft identifies the intended age group and several relevant barriers, although the geographic service area remains unspecified.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "The initiative will focus on adults ages 45-75 in communities experiencing barriers to routine\npreventive care, including limited access to a primary care provider, language barriers, cost\nconcerns, transportation challenges, and inflexible work schedules."
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Project Activities: Describe activities, delivery responsibilities, and a feasible timeline.",
+        "status": "unclear",
+        "explanation": "The draft provides phased activities and some staff responsibilities, but feasibility cannot be verified while staffing, partners, location, and targets remain unconfirmed.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Months 3-10, implementation: Hold approximately one to two education sessions per month,\ndistribute outreach resources, and assist interested participants with locating clinics and\nrequesting appointments."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "The applicant must validate feasibility and local relevance before using\nthem in a real proposal."
+          },
+          {
+            "document": "Community_Wellness_Alliance_Organizational_Policies.pdf",
+            "page": 1,
+            "quote": "This sample does not verify tax-exempt status, legal registration, jurisdiction, program staff, existing \nreferral partnerships, or organizational track record."
+          }
+        ],
+        "question": "Who will deliver each activity, and what confirmed staffing, partners, and local evidence support the timeline?"
+      },
+      {
+        "requirement": "Budget: Provide a category-level budget and a basic use-of-funds justification.",
+        "status": "met",
+        "explanation": "The draft lists three budget categories, their amounts, and basic purposes; it identifies the amounts as illustrative.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Personnel\n$25,000\nPart-time coordination and outreach support"
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Educational materials\n$10,000\nAccessible content, translation and printing\nCommunity outreach\n$15,000\nVenue support, local outreach and navigation logistics"
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Amounts are illustrative planning figures\nand would need supporting cost estimates in a real proposal."
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Evaluation Plan: Identify output and outcome measures, collection methods, reporting frequency, and limitations.",
+        "status": "met",
+        "explanation": "The plan describes activity outputs, participant-reported feedback outcomes, records and questionnaires, monthly and final reporting, and limitations on feedback and verified screening claims.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Staff will track the\nnumber of sessions delivered, estimated unique participants reached, materials distributed,\nnavigation requests received, and documented follow-up attempts."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "The program coordinator will compile a monthly activity summary and review progress\ntoward the four proposed objectives."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Responses are voluntary and may not represent all participants; they do not verify screening completion."
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "The applicant must be a nonprofit organization providing community health services.",
+        "status": "unclear",
+        "explanation": "The supplied materials describe a fictional nonprofit and proposed community health activities; they do not establish an actual organization's status or services.",
+        "references": [
+          {
+            "document": "Community_Wellness_Alliance_Organizational_Policies.pdf",
+            "page": 1,
+            "quote": "Community Wellness Alliance is a fictional nonprofit community health organization established \nsolely for demonstration."
+          },
+          {
+            "document": "Community_Wellness_Alliance_Organizational_Policies.pdf",
+            "page": 1,
+            "quote": "This sample does not verify tax-exempt status, legal registration, jurisdiction, program staff, existing \nreferral partnerships, or organizational track record."
+          }
+        ],
+        "question": "What evidence verifies that the actual applicant is a nonprofit providing community health services?"
+      },
+      {
+        "requirement": "Project activities must serve a defined community and have a plausible connection to preventive healthcare access.",
+        "status": "unmet",
+        "explanation": "The draft connects education and navigation to preventive care, but explicitly leaves the implementation area unspecified.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Service area:\nUnderserved communities in the proposed implementation area, to be specified by the\napplicant."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "The project will combine accessible educational sessions, bilingual\ninformational materials where appropriate, and referral navigation to local healthcare\nproviders."
+          }
+        ],
+        "question": "Which specific community and geographic area will the project serve?"
+      },
+      {
+        "requirement": "The applicant must document organizational capacity, proposed partners, and a realistic project budget.",
+        "status": "unclear",
+        "explanation": "The draft provides an illustrative budget and proposes identifying partners, but capacity, partners, and budget realism are not verified.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Months 1-2, preparation: Identify referral partners, confirm accessible community venues,\nrecruit and orient outreach staff, and develop educational materials for review by an\nappropriately qualified health professional."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Amounts are illustrative planning figures\nand would need supporting cost estimates in a real proposal."
+          },
+          {
+            "document": "Community_Wellness_Alliance_Organizational_Policies.pdf",
+            "page": 1,
+            "quote": "This sample does not verify tax-exempt status, legal registration, jurisdiction, program staff, existing \nreferral partnerships, or organizational track record."
+          }
+        ],
+        "question": "What documented capacity, proposed partners, and cost estimates support the project?"
+      },
+      {
+        "requirement": "The applicant must verify its actual legal and organizational status; narrative statements alone cannot establish eligibility.",
+        "status": "unclear",
+        "explanation": "The sample expressly says legal registration and tax-exempt status are unverified; no actual verification evidence is provided.",
+        "references": [
+          {
+            "document": "Community_Wellness_Alliance_Organizational_Policies.pdf",
+            "page": 1,
+            "quote": "This sample does not verify tax-exempt status, legal registration, jurisdiction, program staff, existing \nreferral partnerships, or organizational track record."
+          }
+        ],
+        "question": "What documentation verifies the actual applicant's legal and organizational status?"
+      },
+      {
+        "requirement": "The fictional application deadline is December 15, 2026, at 11:59 p.m. ET.",
+        "status": "unclear",
+        "explanation": "The supplied guideline excerpt states a fictional deadline, but the materials do not verify an actual opportunity or timely submission.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 1,
+            "quote": "December 15, 2026, 11:59 p.m. ET (fictional)"
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "This is not a verified funding opportunity or a submission-ready\napplication."
+          }
+        ],
+        "question": "Is there an actual opportunity, and what is its officially confirmed deadline?"
+      },
+      {
+        "requirement": "No external attachments are required for the initial narrative screening in this simplified fictional RFP.",
+        "status": "unclear",
+        "explanation": "The fictional guideline states that no external attachments are required for its initial screening, but requirements for any actual opportunity are not verified.",
+        "references": [
+          {
+            "document": "Community_Health_Improvement_Grant_Guidelines.pdf",
+            "page": 2,
+            "quote": "For this simplified fictional RFP, no external attachments are required for the initial narrative \nscreening."
+          }
+        ],
+        "question": "What attachments, if any, does the actual funder require?"
+      },
+      {
+        "requirement": "The main narrative, including the budget and evaluation plan, may not exceed five pages.",
+        "status": "unclear",
+        "explanation": "NOT VERIFIED: inspect the formatted submission document manually.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "8. Evaluation Plan"
+          }
+        ],
+        "question": "Does the final formatted narrative, including budget and evaluation, fit within five pages?"
+      },
+      {
+        "requirement": "Use 12-point Times New Roman body text and one-inch margins on all sides.",
+        "status": "unclear",
+        "explanation": "NOT VERIFIED: inspect the formatted submission document manually.",
+        "references": [],
+        "question": "Does the final formatted narrative use 12-point Times New Roman body text and one-inch margins?"
+      },
+      {
+        "requirement": "Submit the narrative as a readable PDF and use clear headings matching the eight required sections.",
+        "status": "unclear",
+        "explanation": "NOT VERIFIED: inspect the formatted submission document manually.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "1. Project Title"
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "8. Evaluation Plan"
+          }
+        ],
+        "question": "Has the final narrative been prepared and submitted as a readable PDF with all eight required headings?"
+      },
+      {
+        "requirement": "Request no more than $75,000 for a project lasting no more than 12 months.",
+        "status": "met",
+        "explanation": "The draft requests $50,000 for a proposed 12-month project.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Community Wellness Alliance requests $50,000 for a 12-month Community Health Access\nInitiative to help adults ages 45-75 better understand and access recommended preventive\nhealth screenings."
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Personnel, educational materials, translation, outreach, and navigation-related operating costs may be proposed if reasonable and connected to the work plan.",
+        "status": "unclear",
+        "explanation": "The draft connects its proposed categories to project activities, but labels the figures illustrative and provides no supporting estimates to establish reasonableness.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Amounts are illustrative planning figures\nand would need supporting cost estimates in a real proposal."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Educational materials\n$10,000\nAccessible content, translation and printing\nCommunity outreach\n$15,000\nVenue support, local outreach and navigation logistics"
+          }
+        ],
+        "question": "What cost estimates and assumptions establish that the proposed expenses are reasonable?"
+      },
+      {
+        "requirement": "The budget must add correctly and not exceed the requested amount.",
+        "status": "met",
+        "explanation": "The three listed categories total $50,000, matching the requested amount.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Personnel\n$25,000\nPart-time coordination and outreach support"
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Educational materials\n$10,000\nAccessible content, translation and printing\nCommunity outreach\n$15,000\nVenue support, local outreach and navigation logistics\nTOTAL\n$50,000\n12-month project request"
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "The fictional opportunity does not pay for direct clinical services unless separately authorized.",
+        "status": "met",
+        "explanation": "The draft describes referral and education rather than direct clinical screening, and its listed budget purposes do not identify direct clinical services.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "The initiative is designed\nto connect participants with qualified healthcare professionals rather than deliver clinical\nscreening or medical advice directly."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Community outreach\n$15,000\nVenue support, local outreach and navigation logistics"
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Completeness: All eight sections must be present and substantively addressed.",
+        "status": "unmet",
+        "explanation": "The draft includes the eight sections, but organization information is incomplete: the service area is explicitly unspecified, contact details are absent, and eligibility remains unverified.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Service area:\nUnderserved communities in the proposed implementation area, to be specified by the\napplicant."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Before any real submission, the applicant would\nneed to confirm its legal status, service location, leadership, organizational capacity, and\neligibility."
+          }
+        ],
+        "question": "What location, contact information, and eligibility evidence should complete the organization section?"
+      },
+      {
+        "requirement": "Feasibility: Activities, objectives, resources, and timeline should be aligned.",
+        "status": "unclear",
+        "explanation": "The draft proposes a timeline and corresponding activities, but explicitly says the targets need feasibility validation; staffing, partners, and cost estimates remain unconfirmed.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "These are proposed planning targets, not demonstrated outcomes or promises of completed\nmedical screening. The applicant must validate feasibility and local relevance before using\nthem in a real proposal."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Months 3-10, implementation: Hold approximately one to two education sessions per month,\ndistribute outreach resources, and assist interested participants with locating clinics and\nrequesting appointments."
+          }
+        ],
+        "question": "What evidence confirms that the available staff, partners, budget, and timeline can deliver the stated objectives?"
+      },
+      {
+        "requirement": "Budget consistency: Figures should total correctly and support the proposed activities.",
+        "status": "unclear",
+        "explanation": "The categories total the $50,000 request and relate broadly to the activities, but their adequacy and reasonableness cannot be verified without supporting estimates.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Amounts are illustrative planning figures\nand would need supporting cost estimates in a real proposal."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Educational materials\n$10,000\nAccessible content, translation and printing\nCommunity outreach\n$15,000\nVenue support, local outreach and navigation logistics\nTOTAL\n$50,000\n12-month project request"
+          }
+        ],
+        "question": "What supporting cost estimates show that each category adequately supports the planned activities?"
+      },
+      {
+        "requirement": "Evaluation: Metrics should distinguish outreach and referral activity from verified health outcomes.",
+        "status": "met",
+        "explanation": "The draft tracks activity measures and explicitly avoids claiming screening completion without reliable verification.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Staff will report\naggregate counts and clearly distinguish outreach or referral activity from verified clinical\noutcomes. The program will not claim that participants completed screenings unless that result\ncan be lawfully and reliably verified."
+          }
+        ],
+        "question": ""
+      },
+      {
+        "requirement": "Readiness: The applicant should verify eligibility, accuracy, and formatting before submission.",
+        "status": "unclear",
+        "explanation": "The draft identifies verification steps, but the supplied materials do not establish that eligibility, accuracy, or final formatting have been verified.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Applicant verification before submission: Confirm the funder's official current guidelines and deadline;\napplicant nonprofit eligibility; location and referral partners; delivery capacity and measurable targets; budget\njustifications; and applicable confidentiality/consent procedures."
+          },
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "This is not a verified funding opportunity or a submission-ready\napplication."
+          }
+        ],
+        "question": "Have the applicant's eligibility, application facts, and final formatting been independently verified?"
+      },
+      {
+        "requirement": "The document is synthetic training material and does not establish that a real funding opportunity exists.",
+        "status": "met",
+        "explanation": "The draft identifies itself and the named organizations and funder as synthetic, and says the opportunity is not verified.",
+        "references": [
+          {
+            "document": "revised_application.txt",
+            "page": 1,
+            "quote": "Fictional demonstration: This application and the named organizations/funder are synthetic materials for testing\nan AI-assisted grant review workflow. This is not a verified funding opportunity or a submission-ready\napplication."
+          }
+        ],
+        "question": ""
+      }
+    ]
+  },
+  "recommendations": [
+    {
+      "requirement": "Organization Information: Provide the organization name, mission, project location, applicant eligibility, and contact details.",
+      "explanation": "The policy packet supplies a proposed mission for the fictional organization. Its actual mission remains unverified, and the supplied evidence does not establish a location, contact details, or eligibility.",
+      "original_text": "Community Wellness Alliance is presented as a community health nonprofit focused on\nreducing practical barriers to preventive care.",
+      "replacement_text": "Community Wellness Alliance is presented as a fictional community health nonprofit. Its proposed mission is to expand access to preventive healthcare information and support practical pathways to community-based care.",
+      "references": [
+        {
+          "document": "Community_Wellness_Alliance_Organizational_Policies.pdf",
+          "page": 1,
+          "quote": "Community Wellness Alliance is a fictional nonprofit community health organization established \nsolely for demonstration. Its proposed mission is to expand access to preventive healthcare \ninformation and support practical pathways to community-based care."
+        }
+      ],
+      "decision": "accepted",
+      "applied_text": "Community Wellness Alliance is presented as a fictional community health nonprofit. Its proposed mission is to expand access to preventive healthcare information and support practical pathways to community-based care."
+    },
+    {
+      "requirement": "Evaluation Plan: Identify output and outcome measures, collection methods, reporting frequency, and limitations.",
+      "explanation": "The existing optional questionnaire supports a proposed participant-reported outcome concerning clarity and usefulness. The replacement specifies how responses would be summarized without treating them as verified health outcomes. Results would be subject to voluntary-response bias and would not establish screening completion.",
+      "original_text": "Participants may optionally complete a brief anonymous\nfeedback questionnaire on clarity, usefulness, and remaining access barriers.",
+      "replacement_text": "Participants may optionally complete a brief anonymous feedback questionnaire on clarity, usefulness, and remaining access barriers. As participant-reported outcomes, staff will summarize the number and proportion of respondents reporting that the information was clear and useful in the final report. Responses are voluntary and may not represent all participants; they do not verify screening completion.",
+      "references": [
+        {
+          "document": "Community_Health_Access_Grant_Application (1).pdf",
+          "page": 3,
+          "quote": "Participants may optionally complete a brief anonymous\nfeedback questionnaire on clarity, usefulness, and remaining access barriers."
+        },
+        {
+          "document": "Community_Health_Access_Grant_Application (1).pdf",
+          "page": 3,
+          "quote": "At the end of 12 months, the organization will prepare a concise report comparing planned and\ncompleted activities, describing implementation challenges, and recommending\nimprovements."
+        }
+      ],
+      "decision": "accepted",
+      "applied_text": "Participants may optionally complete a brief anonymous feedback questionnaire on clarity, usefulness, and remaining access barriers. As participant-reported outcomes, staff will summarize the number and proportion of respondents reporting that the information was clear and useful in the final report. Responses are voluntary and may not represent all participants; they do not verify screening completion."
+    }
+  ],
+  "approval": {
+    "approved": true,
+    "timestamp_utc": "2026-11-23T04:51:31.811518+00:00",
+    "draft_sha256": "201ad3256ede10dcec82b96cb7476d8644c75581890bd72c491481a29698eda9"
+  },
+  "notice": "Preliminary AI review. Formatting of the original document and any changes made after this assessment require human verification."
+}
